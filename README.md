@@ -66,5 +66,10 @@ URL：https://github.com/Cysharp/UniTask</br>
 説明：ゲームのフォントに使用しました。</br>
 URL：https://flopdesign.booth.pm/items/1833993</br>
 </br>
+【参考にしたサイト】</br>
+オブジェクトプール（Object Pool）</br>
+説明：オブジェクトプールのプログラムを使用しました。</br>
+URL：https://zenn.dev/twugo/books/21cb3a6515e7b8/viewer/c6b6a1</br>
+</br>
 【その他】</br>
 Unityroomに投稿したゲームのURL：https://unityroom.com/games/aiaigasa</br>
