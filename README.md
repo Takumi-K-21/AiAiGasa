@@ -35,16 +35,16 @@
 【担当】</br>
 プログラマーとして、企画、プログラム、Unityを用いた機能の実装を担当しました。</br>
 プログラム、Unityを用いた機能の実装は1人で取り組みました。</br>
-書いたプログラムは「Assets>Scripts」、または、「Assets>MyGameLib>Scripts」にあります。</br>
+書いたプログラムは「Assets/Scripts」と「Assets/MyGameLib/Scripts」にあります。</br>
 </br>
 
 【動作環境】</br>
-OS：Windows11（Windows10／Macで動作確認をしていません）</br>
+OS：Windows11（Windows10/Macで動作確認をしていません）</br>
 Unity：2022.3.61f1</br>
 </br>
 
 【ゲームプレイ時の注意点】</br>
-ゲームをプレイするには、「Assets/Scenes」から「Title」を読み込んでからPlayボタンを押してください。</br>
+ゲームをプレイするには、「Assets/Scenes」から「Title」を読み込んで、Playボタンを押してください。</br>
 </br>
 
 【操作方法】</br>
