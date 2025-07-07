@@ -1,5 +1,6 @@
 【ダウンロード時の注意点】</br>
-「Open with」</br>
+「Open with Github Desktop」からダウンロードするようにしてください。</br>
+「Download ZIP」だとScriptableObjectのデータが動作しない可能性があります。</br>
 </br>
 
 【タイトル】</br>
